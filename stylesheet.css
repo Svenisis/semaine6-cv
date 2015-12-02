@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+	background-image:url(image.png);
+}
+
+footer {
+    padding: 20px;
+	background-image:url(image2.png);
+}
+
+main{
+	padding:20px;
+	background-image:url(test.jpg);
+}
+header{
+	background-image:url(Paperplane.png);
+}
